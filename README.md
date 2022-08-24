@@ -15,14 +15,10 @@
 - Filter Transactions by Till, Cashier or Status. 
 - Filter Transactions by Date Range. 
 
- **To use on Windows:**
- [Download](http://www.storepointofsale.com/download/v1/StorePOS.msi) the MSI Installer
 
 The default username and password is  **admin**
 
-  **Looking for a Desktop Invoicing app?**
   
- Check out the [Offline Invoicing](https://github.com/tngoman/Offline_Invoicing) app for freelancers.
 
 **To Customize/Create your own installer**
 
@@ -31,12 +27,7 @@ The default username and password is  **admin**
 - Run "npm install" to install dependencies.
 - Run "npm run electron". 
 
-![POS](https://github.com/tngoman/Store-POS/blob/master/screenshots/pos.jpg)
 
-![Transactions](https://github.com/tngoman/Store-POS/blob/master/screenshots/transactions.jpg)
 
-![Receipt](https://github.com/tngoman/Store-POS/blob/master/screenshots/receipt.jpg)
 
-![Permissions](https://github.com/tngoman/Store-POS/blob/master/screenshots/permissions.jpg)
 
-![Users](https://github.com/tngoman/Store-POS/blob/master/screenshots/users.jpg)
